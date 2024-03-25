@@ -77,4 +77,6 @@ begin
 end
 
 
-select fn_somasalario() as soma_salario
+
+
+select dbo.fn_somasalario() as soma_salario
